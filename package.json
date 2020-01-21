@@ -1,0 +1,23 @@
+{
+  "name": "contract-testing-demo-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "netlify dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankwarnaar/contract-testing-demo-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Frankwarnaar/contract-testing-demo-server/issues"
+  },
+  "homepage": "https://github.com/Frankwarnaar/contract-testing-demo-server#readme",
+  "description": "",
+  "devDependencies": {
+    "netlify": "3.0.0"
+  }
+}
